@@ -1,0 +1,9 @@
+1. Przerobić generator by zapisywał wygenerowane punkty do txt.
+2. Wczytać pkt z generatora do projektu cudy.
+3. Przerobić plotera by wczytał wartości do generowania histogramu z pliku.
+4. Przepisać core z pythona na cude:
+	a) Liczenie odległości różnymi metodami
+	b) Sortuj uzyskane wyniki (cuda qsort) i zwróć k najmniejszych nalezacych do
+	przeciwnego zbioru niz punkt od ktorego odleglosci liczymy
+5. Zapisać wyniki do pliku.
+6. Napisać dokumentacje.
